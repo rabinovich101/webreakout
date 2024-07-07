@@ -23,7 +23,7 @@ export const Hero = () => {
                 target="_blank"
                 rel="noopener"
                 className="px-8 py-4 text-lg font-medium text-center text-white bg-indigo-600 rounded-md ">
-                Download for Free
+                Join Discord
               </a>
               <a
                 href="https://github.com/web3templates/nextly-template/"
