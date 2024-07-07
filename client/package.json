@@ -9,6 +9,7 @@
     "start": "next start",
     "lint": "next lint"
   },
+  "author": "Surjith S M",
   "license": "ISC",
   "dependencies": {
     "@headlessui/react": "^2.0.3",
