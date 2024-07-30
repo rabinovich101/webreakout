@@ -21,13 +21,13 @@ const benefitOne = {
       icon: <FaceSmileIcon />,
     },
     {
-      title: "Improve acquisition",
-      desc: "Here you can add the next benefit point.",
+      title: "Actionability",
+      desc: "We provide actionable insights enabling traders to make informed, swift trading decisions.",
       icon: <ChartBarSquareIcon />,
     },
     {
-      title: "Drive customer retention",
-      desc: "This will be your last bullet point in this section.",
+      title: "Catering to All Traders",
+      desc: "Our services are designed for every trader, regardless of their level of expertise.",
       icon: <CursorArrowRaysIcon />,
     },
   ],
