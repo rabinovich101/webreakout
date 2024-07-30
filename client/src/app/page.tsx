@@ -22,7 +22,7 @@ export default function Home() {
       </SectionTitle>
 
       <Benefits data={benefitOne} />
-      {/* <Benefits imgPos="right" data={benefitTwo} /> */}
+      <Benefits imgPos="right" data={benefitTwo} />
 
       {/* <SectionTitle
         preTitle="Watch a video"
