@@ -16,8 +16,8 @@ const benefitOne = {
   image: benefitOneImg,
   bullets: [
     {
-      title: "Understand your customers",
-      desc: "Then explain the first point breifly in one or two lines.",
+      title: "Simplification of Data",
+      desc: "We distill complex trading data into clear, comprehensible insights for traders.",
       icon: <FaceSmileIcon />,
     },
     {
