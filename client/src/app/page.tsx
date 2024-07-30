@@ -16,9 +16,9 @@ export default function Home() {
         preTitle="WeBreakOut Benefits"
         title=" Why should you use this services"
       >
-        Nextly is a free landing page & marketing website template for startups
-        and indie projects. Its built with Next.js & TailwindCSS. And its
-        completely open-source.
+        Empower your trading with real-time data, 
+        advanced charts, expert insights, and secure access. 
+        Achieve your financial goals with our user-friendly platform designed for all traders.
       </SectionTitle>
 
       <Benefits data={benefitOne} />
